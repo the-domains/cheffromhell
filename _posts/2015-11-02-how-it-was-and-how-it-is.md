@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-02T20:05:16.996Z'
-dateModified: '2015-11-02T20:03:09.744Z'
+datePublished: '2015-11-02T20:05:35.677Z'
+dateModified: '2015-11-02T20:05:16.996Z'
 title: how it was and how it is
 sourcePath: _posts/2015-11-02-how-it-was-and-how-it-is.md
 published: true
