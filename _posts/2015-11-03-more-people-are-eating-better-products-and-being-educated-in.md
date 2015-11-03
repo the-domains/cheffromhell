@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-03T20:06:35.169Z'
-dateModified: '2015-11-03T20:05:34.003Z'
+datePublished: '2015-11-03T20:13:16.796Z'
+dateModified: '2015-11-03T20:08:06.493Z'
 title: More people are eating better products and being educated into going out of their way to get a better tasting chicken that has had a better life and been treated with respect.
 authors: []
 publisher:
