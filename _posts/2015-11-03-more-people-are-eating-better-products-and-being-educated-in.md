@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Food and Food Culture
-datePublished: '2015-11-04T05:35:27.709Z'
-dateModified: '2015-11-03T20:42:37.170Z'
+datePublished: '2015-11-04T20:18:43.620Z'
+dateModified: '2015-11-04T20:18:27.511Z'
 title: "\_\"A certain reverence is directed to the product be it a eel or a chicken I think Shinto has played a large part in this attitude everything has its own soul from a grain of rice to a tin can\".\_"
 sourcePath: _posts/2015-11-03-more-people-are-eating-better-products-and-being-educated-in.md
 published: true
