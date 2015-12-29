@@ -1,6 +1,6 @@
 name: cheffromhell
 favicon: null
-layout_spectrum: 0.55343
+layout_spectrum: 0.98119
 typography_spectrum: 0.19214
 title: hot as hell in the kitchen
 cta:
@@ -22,7 +22,7 @@ color:
     - '#252e2d'
     - '#96b4b2'
     - '#cffdfd'
-  brandStrength: 0.625
+  brandStrength: 0.4375
   lightness: 0.75
   saturation: 0.5625
   rhythmicContrast: 0.75
