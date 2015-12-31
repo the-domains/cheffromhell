@@ -4,7 +4,7 @@
         <description><![CDATA[hot as hell in the kitchen]]></description>
         <link>https://thegrid.ai/cheffromhell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 07:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 12:51:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cheffromhell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sake]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/cheffromhell/japan/index.html</link>
             <guid isPermaLink="false">06df649f-f0d8-483c-aa30-ea8bc84dfee9</guid>
             <pubDate>Thu, 31 Dec 2015 07:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo]]></title>
+            <description><![CDATA[<h1>Tokyo</h1>]]></description>
+            <link>https://thegrid.ai/cheffromhell/tokyo/index.html</link>
+            <guid isPermaLink="false">9aaebba9-0793-4785-b5c7-32270e7be5d6</guid>
+            <pubDate>Thu, 31 Dec 2015 12:49:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bikes]]></title>
