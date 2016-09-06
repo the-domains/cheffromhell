@@ -28,6 +28,9 @@ navigation:
   - name: Tokyo
     id: 9aaebba9-0793-4785-b5c7-32270e7be5d6
     type: content
+  - name: 'Photography '
+    id: 4a03ce49-6f40-4821-8415-882c1f1b334d
+    type: content
 favicon: null
 title: hot as hell in the kitchen
 purpose: []
