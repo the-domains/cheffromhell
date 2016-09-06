@@ -31,6 +31,9 @@ navigation:
   - name: 'Photography '
     id: 4a03ce49-6f40-4821-8415-882c1f1b334d
     type: content
+  - name: Japan
+    id: 06df649f-f0d8-483c-aa30-ea8bc84dfee9
+    type: content
 favicon: null
 title: hot as hell in the kitchen
 purpose: []
