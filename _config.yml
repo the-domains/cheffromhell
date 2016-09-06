@@ -1,20 +1,4 @@
-name: chef from hell
-favicon: null
-layout_spectrum: 0.85001
 typography_spectrum: 0.19214
-title: hot as hell in the kitchen
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010101'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.85001
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: chef from hell
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Tokyo
+    id: 9aaebba9-0793-4785-b5c7-32270e7be5d6
+    type: content
+favicon: null
+title: hot as hell in the kitchen
 purpose: []
