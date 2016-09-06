@@ -37,6 +37,9 @@ navigation:
   - name: Sake
     id: 48151d8d-8dc1-4ecb-9207-4b5d52b8e6d8
     type: content
+  - name: Bikes
+    id: 4f082949-6f59-45bb-9fa8-1b7fccfb18c7
+    type: content
 favicon: null
 title: hot as hell in the kitchen
 purpose: []
