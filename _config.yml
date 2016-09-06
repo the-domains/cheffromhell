@@ -34,6 +34,9 @@ navigation:
   - name: Japan
     id: 06df649f-f0d8-483c-aa30-ea8bc84dfee9
     type: content
+  - name: Sake
+    id: 48151d8d-8dc1-4ecb-9207-4b5d52b8e6d8
+    type: content
 favicon: null
 title: hot as hell in the kitchen
 purpose: []
